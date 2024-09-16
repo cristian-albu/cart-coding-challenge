@@ -1,0 +1,44 @@
+[
+  {
+    "id": "asgasfahaf",
+    "title": "Product",
+    "price": 55,
+    "description": "This is the first product",
+    "category": "cat 1"
+  },
+  {
+    "id": "fgdjgf134",
+    "title": "Product 2",
+    "price": 35,
+    "description": "This is the second product",
+    "category": "cat 3"
+  },
+  {
+    "id": "73573sdazfa",
+    "title": "Product 3",
+    "price": 22,
+    "description": "This is the third product",
+    "category": "cat 1"
+  },
+  {
+    "id": "1561351gdagsfh",
+    "title": "Product 4",
+    "price": 19,
+    "description": "This is the fourth product",
+    "category": "cat 2"
+  },
+  {
+    "id": "15sdagas",
+    "title": "Product 5",
+    "price": 14.5,
+    "description": "This is the fifth product",
+    "category": "cat 2"
+  },
+  {
+    "id": "hsfasgjasfd",
+    "title": "Product 6",
+    "price": 99,
+    "description": "This is the sixth product",
+    "category": "cat 3"
+  }
+]
