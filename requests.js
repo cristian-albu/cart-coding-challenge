@@ -1,6 +1,15 @@
 /**
+ * @typedef T_Product
+ * @type {object}
+ * @property {string} id
+ * @property {string} title
+ * @property {string} description
+ * @property {"cat 1" | "cat 2" | "cat 3"} category
+ */
+
+/**
  * Mimic a realisting api call
- * @returns {Promise<*[]>}
+ * @returns {Promise<T_Product[]>}
  */
 export default async function getProducts() {
   return new Promise((resolve, reject) => {
